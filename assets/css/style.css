@@ -96,7 +96,13 @@ p {
     text-align: center;
 }
 
-.benefit-lead, .benefit-brand,  img {
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
