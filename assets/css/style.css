@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -150,6 +150,7 @@ footer {
 .footer h2 {
     font-size: 20px;
 }
+
 .text-center {
     margin: auto;
 }
