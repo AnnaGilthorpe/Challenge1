@@ -75,6 +75,10 @@ main {
     margin-left: 20px;
 }
 
+h2 {
+    font-size: 30px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
