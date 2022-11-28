@@ -11,6 +11,7 @@ The finer details of what I have learnt include:-
 <ul>
   <li>Adding semantic HTML to the website code eg. elements such as <header>, <body>, <main>, <section> and <footer>. This makes the sites purpose clearer for accessibility and SEO purposes.</li>
     <li>Condensing and streamlining code on the CSS sheet to create 'cleaner code' throughout.</li>
+    <li>Adding 'alt text' to all images so that it's clear what the contents are a) if the website fails to load properly b) for users who are accessing the site using screen reader technology c) allowing greater success with SEO.</li>
     
 
 I have learnt many skills during this challenge including understanding and actioning code to create the final product. It has included building on my knowledge and researching finer details of HTML semantics, CSS elements, classes and ids and logging my work on Git Hub.
