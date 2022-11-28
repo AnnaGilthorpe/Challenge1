@@ -5,7 +5,9 @@ The aim of this challenge was to refractor an exisiting site owned by a marketin
 
 The work was carried out to ensure those with disabilities can fully engage with the site. It allows them to access it using assistive technologies eg. video captions, screen readers and braille keyboards. The 'cleaner code' and added semantic HTML will also help boost the site's search engine optimisation.
 
-This challenge helped me learn about and how to implement HTML, CSS, Git practices and code. It ensured my use of Git commands and workflow to become second nature and allowed me to apply what I have learnt in my bootcamp sessions to a 'real-life' example. It has been the first project where I have had to problem solve solo, without close direction, which was challenging and enjoyable in equal measure. 
+I am passionate about accessiblity so this was a great first challenge!
+
+This challenge helped me learn about and how to implement HTML, CSS, Git practices and code. It has help me build on my knowledge and researching finer details of HTML semantics, CSS elements, classes and ids and logging my work on Git Hub. This ensured my use of Git commands and workflow to become second nature and allowed me to apply what I have learnt in my bootcamp sessions to a 'real-life' example. It has been the first project where I have had to problem solve solo, without close direction, which was challenging and enjoyable in equal measure. 
 
 The finer details of what I have learnt include:-
 <ul>
@@ -15,11 +17,7 @@ The finer details of what I have learnt include:-
     <li>Adding 'alt text' to all images so that it's clear what the contents are a) if the website fails to load properly b) for users who are accessing the site using screen reader technology c) allowing greater success with SEO.</li>
     <li>Ensuring heading attributes fall in sequential order</>
     <li>Becoming familiar with the process of saving code, checking changes (or lack of changes) on the live browser and then adding and commiting changes to Git Hub. This has been a great foundation for me to build on in future projects</>
-    
-
-I have learnt many skills during this challenge including understanding and actioning code to create the final product. It has included building on my knowledge and researching finer details of HTML semantics, CSS elements, classes and ids and logging my work on Git Hub.
-
-I am passionate about accessiblity so this was a great first challenge!
+  
 
 [Installation]
 
