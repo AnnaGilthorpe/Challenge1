@@ -21,16 +21,6 @@ The finer details of what I have learnt include:-
   
 Technologies used:- MAC Terminal, VS Code and Git Hub.
 
-[Installation]
-  
- 
-
-[Usage]
-
-[Credits]
-
-[License]
-
 Installation
 N/A
 
