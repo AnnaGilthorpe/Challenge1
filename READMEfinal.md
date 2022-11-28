@@ -1,6 +1,6 @@
 <h1><strong>Accessibility Challenge: HTML CSS and Git</strong></h1>
 
-Description
+<h2>Description</h2>
 The aim of this challenge was to refractor an exisiting site owned by a marketing agency to make it more accessible. 
 
 The work was carried out to ensure those with disabilities can fully engage with the site. It allows them to access it using assistive technologies eg. video captions, screen readers and braille keyboards. The 'cleaner code' and added semantic HTML will also help boost the site's search engine optimisation.
