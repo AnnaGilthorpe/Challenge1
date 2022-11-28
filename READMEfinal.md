@@ -5,9 +5,17 @@ The aim of this challenge was to refractor an exisiting site owned by a marketin
 
 The work was carried out to ensure those with disabilities can fully engage with the site. It allows them to access it using assistive technologies eg. video captions, screen readers and braille keyboards. The 'cleaner code' and added semantic HTML will also help boost the site's search engine optimisation.
 
-This challenge helped me learn about and how to implement HTML, CSS, Git practices and code. It ensured my use of Git commands and workflow to become second nature and allowed me to apply what I have learnt in my bootcamp sessions to a 'real-life' example. It has been the first project where I have had to problem solve solo, without close direction, and this was challenging and enjoyable in equal measure. I am passionate about accessiblity so this was a great first challenge!
+This challenge helped me learn about and how to implement HTML, CSS, Git practices and code. It ensured my use of Git commands and workflow to become second nature and allowed me to apply what I have learnt in my bootcamp sessions to a 'real-life' example. It has been the first project where I have had to problem solve solo, without close direction, which was challenging and enjoyable in equal measure. 
 
-I have learnt many skills during this challenge including understanding and actioning code to create the final product. It has included building on my knowledger and researching finer details of HTML semantics, CSS elements, classes and ids and logging my work on Git Hub.
+The finer details of what I have learnt include:-
+<ul>
+  <li>Adding semantic HTML to the website code eg. elements such as <header>, <body>, <main>, <section> and <footer>. This makes the sites purpose clearer for accessibility and SEO purposes.</li>
+    <li>Condensing and streamlining code on the CSS sheet to create 'cleaner code' throughout.</li>
+    
+
+I have learnt many skills during this challenge including understanding and actioning code to create the final product. It has included building on my knowledge and researching finer details of HTML semantics, CSS elements, classes and ids and logging my work on Git Hub.
+
+I am passionate about accessiblity so this was a great first challenge!
 
 [Installation]
 
