@@ -22,7 +22,7 @@ The finer details of what I have learnt include:-
   
 Technologies used:- MAC Terminal, VS Code and Git Hub.
   
-[Click here] (https://annagilthorpe.github.io/Challenge1/)) to go to the Horiseon page.
+[Click here] (https://annagilthorpe.github.io/Challenge1Refactor/) to go to the Horiseon page.
 
 <h2>Installation</h2>
 N/A
