@@ -1,4 +1,4 @@
-<h1><strong>Accessibility Challenge: HTML CSS and Git</strong></h1>
+<h1><strong>Accessibility Refactor Challenge: HTML CSS and Git</strong></h1>
 
 <h2>Description</h2>
 The aim of this challenge was to refractor an exisiting site owned by a marketing agency to make it more accessible. 
