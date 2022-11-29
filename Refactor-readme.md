@@ -30,26 +30,12 @@ N/A
 <h2>Usage</h2>
 Users can use the website to find out more information about Horiseon. They can navigate through the page and click on the subject of their choice to find out more. The site has been optimised to support those with disabilities and ensure they have full access to all the content.  
   
-
-[Screenshot of final page] (https://annagilthorpe.github.io/Challenge1Refactor/assets/images/screenshot.png)
-
+```md
+![Screenshot of final page] (assets/images/Screenshot.png)
+```
 
 <h2>Credits</h2>
 N/A
 
 <h2>License</h2>
 Please refer to the LICENSE in the repo
-
-Badges
-badmath
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by shields.io. You may not understand what they all represent now, but you will in time.
-
-Features
-If your project has a lot of features, list them here.
-
-How to Contribute
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The Contributor Covenant is an industry standard, but you can always write your own if you'd prefer.
-
-Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
