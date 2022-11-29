@@ -16,6 +16,7 @@ The finer details of what I have learnt include:-
     <li>Condensing and streamlining code on the CSS sheet to create 'cleaner code' throughout.</li>
     <li>Adding 'alt text' to all images so that it's clear what the contents are a) if the website fails to load properly b) for users who are accessing the site using screen reader technology c) allowing greater success with SEO.</li>
     <li>Ensuring heading attributes fall in sequential order</>
+    <li>Adding CSS file comments
     <li>Becoming familiar with the process of saving code, checking changes (or lack of changes) on the live browser and then adding and commiting changes to Git Hub. This has been a great foundation for me to build on in future projects</>
   </ul>
   
