@@ -30,9 +30,9 @@ N/A
 <h2>Usage</h2>
 Users can use the website to find out more information about Horiseon. They can navigate through the page and click on the subject of their choice to find out more. The site has been optimised to support those with disabilities and ensure they have full access to all the content.  
   
- ```md
-![Screenshot of final page](assets/images/screenshot.png)
-```
+
+[Screenshot of final page] (https://annagilthorpe.github.io/Challenge1Refactor/assets/images/screenshot.png)
+
 
 <h2>Credits</h2>
 N/A
