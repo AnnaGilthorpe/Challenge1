@@ -21,6 +21,8 @@ The finer details of what I have learnt include:-
   </ul>
   
 Technologies used:- MAC Terminal, VS Code and Git Hub.
+  
+Click [here] (file:///Users/annagilthorpe/bootcamp/Repos/challenge1/index.html) to go to the Horiseon page.
 
 <h2>Installation</h2>
 N/A
